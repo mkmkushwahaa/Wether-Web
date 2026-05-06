@@ -30,8 +30,6 @@ The Weather Web Application is a simple and interactive web project developed to
 ## 📂 Project Structure
 
 ```text id="k1q4ms"
-Weather Web Application/
-│
 ├── css/
 │   ├── search.css
 │   ├── style.css
