@@ -65,3 +65,6 @@ The application takes a city name as input from the user and sends a request to 
 ## 🎯 Conclusion
 
 This project helped in improving practical knowledge of front-end web development, API integration, responsive web design, and JavaScript DOM manipulation. It also enhanced problem-solving skills and understanding of real-world web application development.
+
+🔗 live at:
+https://mkmkushwahaa.github.io/Wether-Web/
